@@ -5,4 +5,4 @@ Edit
 
 This line was added in github
 
-Check out my [R analysis](happy.Rmd)
+Check out my [R analysis](happy.md)
